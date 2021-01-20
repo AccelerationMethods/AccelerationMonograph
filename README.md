@@ -19,14 +19,14 @@ This code can be used to verify the theoretical statements from the monograph
 ### (Accelerated) Gradient Methods (Chapter 4)
 
 [`Proofs of Chapter 4`](Proofs_of_Chapter_4/) contains two subfolders.
-- [`01_Symbolic`](Proofs_of_Chapter_4/01_Symbolic/) contains Mathematica notebooks for verifying the algebraic manipulations required in the proof of the potential inequalities for the 14 methods in this chapter.
+- [`01_Symbolic`](Proofs_of_Chapter_4/01_Symbolic/) contains Mathematica notebooks for verifying the algebraic manipulations required in the proof of the potential inequalities for the 14 gradient methods in this chapter.
 - [`02_Numerical`](Proofs_of_Chapter_4/02_Numerical/) contains Matlab codes for verifying the final bounds of the methods presented in the chapter.
 
 
 ### (Accelerated) Proximal Methods (Chapter 5)
 
 [`Proofs of Chapter 5`](Proofs_of_Chapter_5/) contains two subfolders.
-- [`01_Symbolic`](Proofs_of_Chapter_5/01_Symbolic/) contains Mathematica notebooks for verifying the algebraic manipulations required in the proof of the potential inequalities for the 14 methods in this chapter.
-- [`02_Numerical`](Proofs_of_Chapter_5/02_Numerical/) contains Matlab codes for verifying the final bounds of the methods presented in the chapter.
+- [`01_Symbolic`](Proofs_of_Chapter_5/01_Symbolic/) contains Mathematica notebooks for verifying the algebraic manipulations required in the proof of the potential inequalities for the 4 proximal methods in this chapter.
+- [`02_Numerical`](Proofs_of_Chapter_5/02_Numerical/) contains Matlab codes for verifying the final bounds of the 4 proximal methods presented in the chapter.
 
 
