@@ -11,8 +11,8 @@ This code can be used to verify the theoretical statements from the monograph
 - [**Adrien Taylor**](http://www.di.ens.fr/~ataylor/)
 
 **Notes:**
-- Files in the folders [`Proofs of Chapter 4/01_Symbolic`](Proofs_of_Chapter_4/01_Symbolic) and [`Proofs of Chapter 5/01_Symbolic`](Proofs of Chapter 5/01_Symbolic) require Mathematica (for verifying analytical developments).
-- Files in the folders  [`Proofs of Chapter 4/02_Numerical`](Proofs of Chapter 4/02_Numerical) and [`Proofs of Chapter 5/02_Numerical`](Proofs of Chapter 5/02_Numerical) require [YALMIP](https://yalmip.github.io/) along with a suitable SDP solver (e.g., Sedumi, SDPT3, Mosek), and the Performance Estimation Toolbox ([PESTO](https://github.com/AdrienTaylor/Performance-Estimation-Toolbox)).
+- Files in the folders [`Proofs of Chapter 4/01_Symbolic`](Proofs_of_Chapter_4/01_Symbolic) and [`Proofs of Chapter 5/01_Symbolic`](Proofs_of_Chapter_5/01_Symbolic) require Mathematica (for verifying analytical developments).
+- Files in the folders  [`Proofs of Chapter 4/02_Numerical`](Proofs_of_Chapter_4/02_Numerical) and [`Proofs of Chapter 5/02_Numerical`](Proofs_of_Chapter_5/02_Numerical) require [YALMIP](https://yalmip.github.io/) along with a suitable SDP solver (e.g., Sedumi, SDPT3, Mosek), and the Performance Estimation Toolbox ([PESTO](https://github.com/AdrienTaylor/Performance-Estimation-Toolbox)).
 
 ## Content
 
