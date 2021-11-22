@@ -33,4 +33,4 @@ The arXiv version is available [**here**](https://arxiv.org/abs/2101.09545)
 
 ### On Worst-case Analyses for First-order Methods (Appendix C)
 
-[`Proofs of Appendix C/`](Proofs_of_Appendix_C/) contains Mathematica notebooks for obtaining and solving (numerically) the LMI formulations from Appendix C.
+[`Proofs of Appendix C/`](Proofs_of_Appendix_C/) contains Mathematica notebooks for obtaining (analytically) and solving (numerically) the LMI formulations from Appendix C.
