@@ -5,7 +5,7 @@ This code can be used to verify the theoretical statements from the monograph
 > [1] Alexandre d’Aspremont, Damien Scieur and Adrien Taylor (2021), "Acceleration Methods", Foundations and Trends® in Optimization: Vol. 5: No. 1-2, pp 1-245.
 
 
-The arXiv version is available [**here**](https://arxiv.org/abs/2101.09545), the Foundation and Trends version is available [**here**](https://www.nowpublishers.com/article/Details/OPT-036)
+The arXiv version is available [**here**](https://arxiv.org/abs/2101.09545), the Foundation and Trends version is available [**here**](https://www.nowpublishers.com/article/Details/OPT-036).
 
 #### Authors
 
